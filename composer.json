@@ -1,7 +1,4 @@
 {
   "name": "salient-child",
-  "type": "wordpress-theme",
-  "require": {
-    "composer/installers": "v8.0.1"
-  }
+  "type": "wordpress-theme"
 }
